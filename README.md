@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -23,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
