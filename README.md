@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
