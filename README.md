@@ -42,6 +42,7 @@
 | [0371-sum-of-two-integers](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
+| [3360-stone-removal-game](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
