@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
@@ -85,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
