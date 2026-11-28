@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -87,6 +89,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Deelaksha22/LeetCode-Solutions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
